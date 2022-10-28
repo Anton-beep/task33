@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T21:00:53.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 OPR/91.0.4516.95 (Edition Yx GX)" etag="GAY3QuIYqRa78BJInWr4" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T08:57:06.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="Czcsk5IEIpSqYL7lDOEi" version="20.5.1" type="github">
   <diagram id="Ph_wj4vUnzdE0F5jjgGL" name="Страница 1">
-    <mxGraphModel dx="962" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="692" dy="383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,7 +100,7 @@
             <mxPoint x="120" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xe_fb3kgxMG55Mu-AA5r-1" value="order complete" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" edge="1" parent="1" source="OXO9vsQ98V_d980Ec4L2-24" target="OXO9vsQ98V_d980Ec4L2-4">
+        <mxCell id="xe_fb3kgxMG55Mu-AA5r-1" value="order complete" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;" parent="1" source="OXO9vsQ98V_d980Ec4L2-24" target="OXO9vsQ98V_d980Ec4L2-4" edge="1">
           <mxGeometry x="0.0322" relative="1" as="geometry">
             <mxPoint x="485" y="369.9999999999999" as="sourcePoint" />
             <mxPoint x="410" y="340" as="targetPoint" />
@@ -110,6 +110,9 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A5LGwwmOc5CDhkvuN6ui-1" value="If we have problems with delivery person, system will change him and give all actions / terms to another delivery person, or we can return money if we do not have another delivery person." style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="370" width="176" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
