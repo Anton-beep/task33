@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T08:55:37.769Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="sUyMFFb8aUfy7RoQhS6v" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-28T08:57:35.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36" etag="-_YOc7IzBWj-aBtt90uu" version="20.5.1" type="github">
   <diagram id="9pgWwluBCteegxhIgcZV" name="Страница 1">
-    <mxGraphModel dx="1221" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,8 +147,8 @@
         <mxCell id="N1njmyorijqHZyylZuGq-4" value="Gives status of current order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="244" y="940" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xdqbRRz0h2fY2eq8wupu-1" value="If we have problems with delivery person, system will change him and give all actions / terms to another delivery person." style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="535" width="140" height="115" as="geometry" />
+        <mxCell id="KsRIbK2DY2PyRtYg3Wck-1" value="If we have problems with delivery person, system will change him and give all actions / terms to another delivery person, or we can return money if we do not have another delivery person." style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="530" width="176" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
